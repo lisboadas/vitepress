@@ -13,7 +13,7 @@ export default {
 }
 ```
 
-Esses valores são usados para chamar o sript em CDN do carbon como mostrado abaixo.
+Esses valores são usados para chamar o script em CDN do carbon como mostrado abaixo.
 
 ```js
 `//cdn.carbonads.com/carbon.js?serve=${code}&placement=${placement}`
